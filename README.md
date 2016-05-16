@@ -3,7 +3,7 @@ All datasets required for reproducing the results in the paper entitled "RUBIC i
   
 We compared RUBIC with GISTIC2 and RAIG on 3 SNP6 TCGA datasets, one TCGA whole exome sequencing dataset, one low coverage whole genome sequencing dataset and five simulated SNP6 datasets. The input files required by these three algorithms can be found in the following folder structure:  
 -TCGA_SNP6  
-..-genome.info.6.0.hg19 ... (marker file for SNP6 platform)  
+    -genome.info.6.0.hg19 ... (marker file for SNP6 platform)  
   -BRCA (folder with 1080 Breast cancer copy number profiles)  
   -GBM  (folder with  577 Glioblastoma copy number profiles)  
   -COAD (folder with  450 Colon Adenocarcinoma copy number profiles)  
